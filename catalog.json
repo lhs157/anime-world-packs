@@ -1,1 +1,738 @@
-{"packs":[{"description":{"vi":"Chú chó nhỏ đi từ cuối hẻm tới gần cửa; trang sách lật, vải cửa và dây leo đung đưa."},"id":"alleyBookshop","manifest":{"bytes":3676,"sha256":"ecb78ece3384d7cdc3ff480988cf6254274d046b6b9279b2dd02b11de435eee9","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b1e21cc416a1bf81ffddc901c8a93f62d67b8cd91a7fa44fc36b9741da9a6716.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"b30453bea41d8b123d2d9a7a7e7a69aaa6de75b9a3922ef0c34c1b2ae65589ee","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b30453bea41d8b123d2d9a7a7e7a69aaa6de75b9a3922ef0c34c1b2ae65589ee.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.flight.v1","motion.foliage.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Tiệm sách cuối hẻm"},"totalBytes":14925133},{"description":{"vi":"Trà ấm, lá khẽ lay và chuông gió bên hiên phố mưa."},"id":"atticRain","manifest":{"bytes":3695,"sha256":"89a2f7ea5f15603287e5e622f6b33f0407adec69edd248c45a7f7834c1415dfa","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b56768f6ea74200f97924bf31522d5c17a549b8b5ffcdea99da0222fbea04ab0.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"8c79ebd4bb96e5606842245ab9892a87fba0f8452b094aab0adda3eff6ec0430","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/8c79ebd4bb96e5606842245ab9892a87fba0f8452b094aab0adda3eff6ec0430.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drop.v1","motion.foliage.v1","motion.sway.v1","motion.weighted-frames.v1","scene.v1"],"revision":2,"tier":"free","title":{"vi":"Gác mái nghe mưa"},"totalBytes":11134824},{"description":{"vi":"Đèn lồng đu theo sóng, ánh đèn lấp lánh trên kênh, vịt bơi, thuyền con qua cầu, mèo nằm ngắm nước."},"id":"canalHouseboat","manifest":{"bytes":2661,"sha256":"ceb2d31e26ed2ee0567b4b20eb2bc4c09050eb29b379b0af947335644b9607f5","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/9f47b7aca1cfea2b664d053f2a53861f73acfe6e251a857241e8e3b4e64eed07.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"927d8dc6dcd8e6ac1162024cdb5320fb922ace79a166db82a7f077edf5db1113","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/927d8dc6dcd8e6ac1162024cdb5320fb922ace79a166db82a7f077edf5db1113.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.foliage.v1","motion.sway.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Thuyền nhà trên kênh"},"totalBytes":11644709},{"description":{"vi":"Biển mây trôi dưới thung, mành tre lay, mèo mướp ngồi đệm, chim và bướm bay qua đồi chè."},"id":"hillTeaHouse","manifest":{"bytes":2918,"sha256":"b4f6ee80b9db92b0f29ec26245bff2aa87f6a6f9391c4f356988357aa846dabf","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/6c4475a7b3537ab9e06a3b3d7a868cc9956acfc66eb3412d4ec041b20073597f.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"4a22919565a29768a7e0d3e618903124704919d746f8647114c414deaf7812d8","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/4a22919565a29768a7e0d3e618903124704919d746f8647114c414deaf7812d8.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.grass.v1","motion.sway.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Quán trà trên đồi"},"totalBytes":12271360},{"description":{"vi":"Mưa nhỏ giọt từ mái hiên, xe lướt qua phố ướt, rèm vải lay, ấm nước bốc hơi và mèo tam thể ngồi ghế đẩu."},"id":"lateNightRoadsideCafe","manifest":{"bytes":3445,"sha256":"c71dbaef6752995913114705f532cb29997cfb7b70b5a4294a829bf0cd77f095","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/749ecaec43d80698eb7fd1d0812a49b0a5aa79d8ad58e28401502e22eb961adc.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"a5fe2cf404d083cb4d93b4bf3c10fc79bd6ebce1b3e76f9b09259cf714eb26d7","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/a5fe2cf404d083cb4d93b4bf3c10fc79bd6ebce1b3e76f9b09259cf714eb26d7.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drop.v1","motion.flight.v1","motion.sway.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Quán khuya bên đường"},"totalBytes":13223876},{"description":{"vi":"Đèn hải đăng quét qua biển, sóng vỗ đá, hải âu và tàu xa, áo mưa đung đưa bên cột."},"id":"lighthouseWatchroom","manifest":{"bytes":3146,"sha256":"e2e24fbe67f7f4318c49cd59b4551df646843749edc946dd477852ff743f1bba","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/f6af63d9f7dd2bfb4d3e8bbce6a41beb84c533a78ec0341896321b1e3c0cd7cd.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"410ff39ea46d73b005f9eaaa3f4a45c3698401b0a2900b70670640febad9230b","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/410ff39ea46d73b005f9eaaa3f4a45c3698401b0a2900b70670640febad9230b.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.sway.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Phòng trực hải đăng"},"totalBytes":11032292},{"description":{"vi":"Mèo nhìn chim bên lò bánh; chim ghé bậu cửa, lửa reo, hơi ấm và cành cam lay trong gió."},"id":"morningKitchen","manifest":{"bytes":3416,"sha256":"0393cf7cdb8bf0c90df316d3c7d0f29b9d86bb71547f4ee4401200afdb532d45","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/5f82a3a5290b3880582c2d0e7413b74894c7e993048372e6fd92a57d3a810bad.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"7cf1b2a1c9d0e28d1a3cd3ee6e6ac4782efb8928fda360abcce5d8e0c0c9d114","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/7cf1b2a1c9d0e28d1a3cd3ee6e6ac4782efb8928fda360abcce5d8e0c0c9d114.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.flight.v1","motion.foliage.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Bếp bánh bên vườn cam"},"totalBytes":14465330},{"description":{"vi":"Cabin trượt theo cáp xuống thung lũng, bánh cáp quay, cờ gió phấp phới, mây và chim bay qua hoàng hôn."},"id":"mountainCableStation","manifest":{"bytes":2885,"sha256":"63126ae16590dc73771b6d6b1d5ed98a39939edd2dde1d478067f87f4a8cc156","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/246f99740ac3ef67c7d116edc7bb5bfd61e1206d8153d21d74497861e439a513.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"ff802e03794a0bfc518b396e94629b53dada93bf7b1cbe244adf076268d8371b","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/ff802e03794a0bfc518b396e94629b53dada93bf7b1cbe244adf076268d8371b.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.spin.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Trạm cáp treo cuối ngày"},"totalBytes":11692858},{"description":{"vi":"Đồng quê, núi và đèn làng lướt qua cửa sổ tàu, cột điện vụt qua, rèm rung theo nhịp toa."},"id":"nightTrainCompartment","manifest":{"bytes":2885,"sha256":"1efcb56f6d22ce93a0721df48c46555fce99a8a8a5903c92795da37139dbf580","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/0a95fb41e99f354822fdd67735125ad07a33838ac3ca451ae82b8fddcb95590f.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"d083027c9669da4c36dcc76e3701e8225d6ccfea47e39d1a8447e5a66f5a4524","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/d083027c9669da4c36dcc76e3701e8225d6ccfea47e39d1a8447e5a66f5a4524.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.drift.v1","motion.drop.v1","motion.flight.v1","motion.sway.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Khoang tàu đêm"},"totalBytes":10543373},{"description":{"vi":"Đàn vịt trời bơi ngang hồ, chim bay xa, mặt hồ gợn và mây trôi; đêm có sao lấp lánh."},"id":"pineLakeTent","manifest":{"bytes":3148,"sha256":"94a31839b463d8f302ebed5ed9d79a45d0448b7c297536e121766829e898e060","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/eadf0a05924c1c7ee245240358626b6b3533337ceee6dabedf282bd7eae6eb91.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"219663a6e4beca9980d03cd24348bf9138f2d622ed8d41f91d85e28bad4b6109","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/219663a6e4beca9980d03cd24348bf9138f2d622ed8d41f91d85e28bad4b6109.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.drift.v1","motion.flight.v1","motion.frames.v1","motion.sway.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Lều cạnh hồ thông"},"totalBytes":11447584},{"description":{"vi":"Phòng bên đường tàu"},"id":"railwayRoom","manifest":{"bytes":7669,"sha256":"a61552196ac4778e68316589b55da46cfe7b0371f3977556defadc9856a23654","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/dfdec5ff2ba90856d78b722b091c64b5676fe0b8d6c734ad653a98e5694dccc4.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"a0b03723f2d84dca457d7e63440acf4b456bd50442e82fb43c44380d06df1e56","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/a0b03723f2d84dca457d7e63440acf4b456bd50442e82fb43c44380d06df1e56.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.weighted-frames.v1","scene.v1"],"revision":2,"tier":"free","title":{"vi":"Phòng bên đường tàu"},"totalBytes":15551765},{"description":{"vi":"Bàn làm việc bên vách kính nhìn phố mưa; mèo ngồi bệ cửa, xe lướt trên đường ướt, giọt mưa chảy trên kính."},"id":"rainyCityOffice","manifest":{"bytes":3441,"sha256":"bfd4cc03a217b204f0f533f48e5d7d81fc0392dfd54c17307e958874ffa49fcc","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/493638c78da22db1c486e99f0e5e5cb20aa9df9e031b0b46eec73e17bb9b3b86.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"cb2cae2bc3d51607f8344e0ad1e88a48d8771a180bb08fdd5fbab4f8e0850a60","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/cb2cae2bc3d51607f8344e0ad1e88a48d8771a180bb08fdd5fbab4f8e0850a60.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drop.v1","motion.flight.v1","motion.grass.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Bàn làm việc trên cao"},"totalBytes":12496270},{"description":{"vi":"Studio tầng trệt nhìn sân vườn mưa; cây phong lay, nước mái đổ xuống rãnh đá, chó nhỏ nghiêng đầu vẫy đuôi."},"id":"rainyGardenStudio","manifest":{"bytes":3423,"sha256":"f70ccf6ac02990408746c9cad1379af470e16d3e7b51ab928721ffaa51a0b3d4","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/26c53d6dabb16ec6138435be9cdc8b8a7bc6c6bc0a0c8047ea99413a32d15f09.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"76294ec9c6f83d350a0db416a8b4b2c53e6a0c857f3450b914588ed1d8725705","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/76294ec9c6f83d350a0db416a8b4b2c53e6a0c857f3450b914588ed1d8725705.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drop.v1","motion.grass.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Studio bên sân vườn"},"totalBytes":14058584},{"description":{"vi":"Đĩa quay, thỏ nhỏ rửa mặt trên ghế và xe lướt qua con phố ngoài cửa sổ."},"id":"recordListeningRoom","manifest":{"bytes":3708,"sha256":"329f6c4fcba9d0d2102b4f3b9ff96c854b77aa04ff3072e3810aee8c571dce5a","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/846a8c624eaf3ff2285ffe1d9dc3528147a0208dab36cf15dc65ebb230a5fa20.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"42d11c7d422bd4a9c1170edb601993d70bc256084ed0bbce8f12a46d02a4e1b3","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/42d11c7d422bd4a9c1170edb601993d70bc256084ed0bbce8f12a46d02a4e1b3.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.disc.v1","motion.drop.v1","motion.flight.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Phòng nghe đĩa cũ"},"totalBytes":15595174},{"description":{"vi":"Gió qua đồng lúa, mây trôi và chim sẻ ghé ngang hiên."},"id":"riceVeranda","manifest":{"bytes":2898,"sha256":"101f57fce1c0ef850ef4ed1dd0346d8ebe3d308fd29c2e7530b9d733c070877d","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b613fa72d2578140972f57690dc759674aeaa1ce78d7880e961ef0c8a96662e7.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"ce67b479e6317dd50db8de17a05fd898e77134629ab5c975729b9f925fbfa2ef","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/ce67b479e6317dd50db8de17a05fd898e77134629ab5c975729b9f925fbfa2ef.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.grass.v1","motion.weighted-frames.v1","scene.v1"],"revision":2,"tier":"free","title":{"vi":"Hiên nhà mùa lúa"},"totalBytes":11219581},{"description":{"vi":"Mèo nhỏ vờn bướm, thuyền lướt trên sông, cỏ lau lay; đêm có đom đóm bay."},"id":"riversidePottery","manifest":{"bytes":3732,"sha256":"8312660b2b8ad3e332d14237abaa460d06fdb278fb43a917f5a2773fdfe18a22","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/240771099a3c2a7b935e2a6fba864e49f7b1c27542af7041db11d9aeb54f401a.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"5159c409cadd50b5b710eeb127790d8fea48462c42d89b43858e92d79bae8e6c","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/5159c409cadd50b5b710eeb127790d8fea48462c42d89b43858e92d79bae8e6c.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.frames.v1","motion.grass.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"free","title":{"vi":"Xưởng gốm ven sông"},"totalBytes":17298412},{"description":{"vi":"Chim sẻ ghé lan can, dây leo đu, lá cà chua lay và mây trôi ngoài khung kính."},"id":"rooftopGreenhouse","manifest":{"bytes":2920,"sha256":"18b7e3566737dc100c1e5f17219025e94b4431c7cb6c40813355e2477dfd107c","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/9cfbe4ee2311dc9a13546a597a4cd3cb39aa30a4d4a599d9d66a20489812f96b.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"b1482e5d0aefcd50a8f8b4dea134ccfa99495a329692d51db1861bc18096bc6e","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b1482e5d0aefcd50a8f8b4dea134ccfa99495a329692d51db1861bc18096bc6e.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.drift.v1","motion.drop.v1","motion.flight.v1","motion.foliage.v1","motion.grass.v1","motion.weighted-frames.v1","scene.v1"],"revision":2,"tier":"free","title":{"vi":"Nhà kính trên sân thượng"},"totalBytes":13266619},{"description":{"vi":"Lửa lò sưởi bập bùng, tuyết rơi ngoài kính, chim sẻ nhảy trên lan can, mèo xám nằm sưởi."},"id":"snowHearthVeranda","manifest":{"bytes":3155,"sha256":"2f7f14a9faa9d2aa83b633fd8ff4b261911c727d942f541c8ce08a12d8bab165","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/8b24c174c8c46439de7c6102a99a5b5f302fd5c8246b775f1483c18de8707997.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"29f04108121301272acad16661692a2e71b1628bd86e8e99c1eee01956049597","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/29f04108121301272acad16661692a2e71b1628bd86e8e99c1eee01956049597.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drop.v1","motion.flight.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Hiên nhà dưới tuyết"},"totalBytes":14879662},{"description":{"vi":"Sao lấp lánh và sao băng trên đồi khô, đom đóm bay, ô liu và cỏ lay trong gió đêm."},"id":"stargazingHouse","manifest":{"bytes":3124,"sha256":"f22e90effa5ab6f969ffaa286e3ea3d3030ec74f99664a72627035c7d965f31a","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/de53a1b338b09785dd3359dceb59405ae0f49bace8a3b292e32b959f7d9158af.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"fcd2e9e4e3bdcb961c8986d429d40593a0958b14eafc33cf90beea453982f794","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/fcd2e9e4e3bdcb961c8986d429d40593a0958b14eafc33cf90beea453982f794.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.flight.v1","motion.frames.v1","motion.grass.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Nhà ngắm sao"},"totalBytes":11875634},{"description":{"vi":"Guồng gỗ quay chậm bên dòng suối, chim nhỏ nhảy trên đá rồi bay đi, lá trôi theo nước; đêm có sao."},"id":"waterwheelCottage","manifest":{"bytes":3184,"sha256":"884e9d8cc199ba16905d111ec5696ba1145b5f6c848640392eb1b020e5f8ad1a","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/fefe1584b321cdca6488de977a17b58f7eaf272e980b3eef05d23885feb317ed.manifest.json"},"minAppBuild":13,"preview":{"height":512,"sha256":"db1ea18e87e393f40ab0a6d245766ce0e784963d55f6eb9f035263b62a394e17","url":"https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/db1ea18e87e393f40ab0a6d245766ce0e784963d55f6eb9f035263b62a394e17.preview.png","width":341},"requiredCapabilities":["audio.mix.v1","motion.cycle.v1","motion.drift.v1","motion.flight.v1","motion.frames.v1","motion.spin.v1","motion.weighted-frames.v1","scene.v1"],"revision":1,"tier":"pro","title":{"vi":"Căn nhà bên guồng nước"},"totalBytes":13089980}],"revision":2,"schemaVersion":1}
+{
+  "packs": [
+    {
+      "description": {
+        "en": "A small dog approaches the doorway as pages turn, curtains flutter and vines sway.",
+        "ja": "小さな犬が店先へ歩き、本のページがめくれ、のれんとつる草が揺れます。",
+        "vi": "Chú chó nhỏ đi từ cuối hẻm tới gần cửa; trang sách lật, vải cửa và dây leo đung đưa."
+      },
+      "id": "alleyBookshop",
+      "manifest": {
+        "bytes": 3676,
+        "sha256": "ecb78ece3384d7cdc3ff480988cf6254274d046b6b9279b2dd02b11de435eee9",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b1e21cc416a1bf81ffddc901c8a93f62d67b8cd91a7fa44fc36b9741da9a6716.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "b30453bea41d8b123d2d9a7a7e7a69aaa6de75b9a3922ef0c34c1b2ae65589ee",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b30453bea41d8b123d2d9a7a7e7a69aaa6de75b9a3922ef0c34c1b2ae65589ee.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.flight.v1",
+        "motion.foliage.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Alley bookshop",
+        "ja": "路地の本屋",
+        "vi": "Tiệm sách cuối hẻm"
+      },
+      "totalBytes": 14925133
+    },
+    {
+      "description": {
+        "en": "Warm tea, gently moving leaves and wind chimes beside a rain-soaked street.",
+        "ja": "温かいお茶、そよぐ葉、雨の通りに響く風鈴。",
+        "vi": "Trà ấm, lá khẽ lay và chuông gió bên hiên phố mưa."
+      },
+      "id": "atticRain",
+      "manifest": {
+        "bytes": 3695,
+        "sha256": "89a2f7ea5f15603287e5e622f6b33f0407adec69edd248c45a7f7834c1415dfa",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b56768f6ea74200f97924bf31522d5c17a549b8b5ffcdea99da0222fbea04ab0.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "8c79ebd4bb96e5606842245ab9892a87fba0f8452b094aab0adda3eff6ec0430",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/8c79ebd4bb96e5606842245ab9892a87fba0f8452b094aab0adda3eff6ec0430.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drop.v1",
+        "motion.foliage.v1",
+        "motion.sway.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 2,
+      "tier": "free",
+      "title": {
+        "en": "Rainy attic",
+        "ja": "雨音の屋根裏",
+        "vi": "Gác mái nghe mưa"
+      },
+      "totalBytes": 11134824
+    },
+    {
+      "description": {
+        "en": "Lanterns sway above shimmering water; ducks swim past, a boat crosses under the bridge and a cat watches the canal.",
+        "ja": "ランタンが揺れ、水面に光がきらめきます。アヒルや小舟が通り、猫が運河を眺めます。",
+        "vi": "Đèn lồng đu theo sóng, ánh đèn lấp lánh trên kênh, vịt bơi, thuyền con qua cầu, mèo nằm ngắm nước."
+      },
+      "id": "canalHouseboat",
+      "manifest": {
+        "bytes": 2661,
+        "sha256": "ceb2d31e26ed2ee0567b4b20eb2bc4c09050eb29b379b0af947335644b9607f5",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/9f47b7aca1cfea2b664d053f2a53861f73acfe6e251a857241e8e3b4e64eed07.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "927d8dc6dcd8e6ac1162024cdb5320fb922ace79a166db82a7f077edf5db1113",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/927d8dc6dcd8e6ac1162024cdb5320fb922ace79a166db82a7f077edf5db1113.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.foliage.v1",
+        "motion.sway.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Canal houseboat",
+        "ja": "運河のハウスボート",
+        "vi": "Thuyền nhà trên kênh"
+      },
+      "totalBytes": 11644709
+    },
+    {
+      "description": {
+        "en": "Clouds drift through the valley, bamboo blinds sway and a tabby rests as birds and butterflies cross the tea fields.",
+        "ja": "谷に雲が流れ、竹のすだれが揺れます。茶畑を鳥や蝶が飛び、猫が座布団でくつろぎます。",
+        "vi": "Biển mây trôi dưới thung, mành tre lay, mèo mướp ngồi đệm, chim và bướm bay qua đồi chè."
+      },
+      "id": "hillTeaHouse",
+      "manifest": {
+        "bytes": 2918,
+        "sha256": "b4f6ee80b9db92b0f29ec26245bff2aa87f6a6f9391c4f356988357aa846dabf",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/6c4475a7b3537ab9e06a3b3d7a868cc9956acfc66eb3412d4ec041b20073597f.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "4a22919565a29768a7e0d3e618903124704919d746f8647114c414deaf7812d8",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/4a22919565a29768a7e0d3e618903124704919d746f8647114c414deaf7812d8.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.grass.v1",
+        "motion.sway.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Hillside tea house",
+        "ja": "丘の茶屋",
+        "vi": "Quán trà trên đồi"
+      },
+      "totalBytes": 12271360
+    },
+    {
+      "description": {
+        "en": "Rain drips from the awning, cars pass on wet streets and a steaming kettle warms a café with a calico cat.",
+        "ja": "軒先から雨が滴り、濡れた道を車が通ります。湯気の立つやかんのそばで三毛猫がくつろぎます。",
+        "vi": "Mưa nhỏ giọt từ mái hiên, xe lướt qua phố ướt, rèm vải lay, ấm nước bốc hơi và mèo tam thể ngồi ghế đẩu."
+      },
+      "id": "lateNightRoadsideCafe",
+      "manifest": {
+        "bytes": 3445,
+        "sha256": "c71dbaef6752995913114705f532cb29997cfb7b70b5a4294a829bf0cd77f095",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/749ecaec43d80698eb7fd1d0812a49b0a5aa79d8ad58e28401502e22eb961adc.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "a5fe2cf404d083cb4d93b4bf3c10fc79bd6ebce1b3e76f9b09259cf714eb26d7",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/a5fe2cf404d083cb4d93b4bf3c10fc79bd6ebce1b3e76f9b09259cf714eb26d7.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.sway.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Late-night roadside café",
+        "ja": "夜更けの道沿いカフェ",
+        "vi": "Quán khuya bên đường"
+      },
+      "totalBytes": 13223876
+    },
+    {
+      "description": {
+        "en": "A lighthouse beam sweeps across the sea; waves, gulls and distant boats pass a swaying raincoat.",
+        "ja": "灯台の光が海を照らし、波やカモメ、遠くの船が見えます。柱のそばでレインコートが揺れます。",
+        "vi": "Đèn hải đăng quét qua biển, sóng vỗ đá, hải âu và tàu xa, áo mưa đung đưa bên cột."
+      },
+      "id": "lighthouseWatchroom",
+      "manifest": {
+        "bytes": 3146,
+        "sha256": "e2e24fbe67f7f4318c49cd59b4551df646843749edc946dd477852ff743f1bba",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/f6af63d9f7dd2bfb4d3e8bbce6a41beb84c533a78ec0341896321b1e3c0cd7cd.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "410ff39ea46d73b005f9eaaa3f4a45c3698401b0a2900b70670640febad9230b",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/410ff39ea46d73b005f9eaaa3f4a45c3698401b0a2900b70670640febad9230b.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.sway.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Lighthouse watchroom",
+        "ja": "灯台の見張り部屋",
+        "vi": "Phòng trực hải đăng"
+      },
+      "totalBytes": 11032292
+    },
+    {
+      "description": {
+        "en": "A cat watches birds beside the oven as flames flicker, steam rises and orange branches sway.",
+        "ja": "オーブンのそばで猫が鳥を見つめます。炎が揺れ、湯気がのぼり、オレンジの枝が風にそよぎます。",
+        "vi": "Mèo nhìn chim bên lò bánh; chim ghé bậu cửa, lửa reo, hơi ấm và cành cam lay trong gió."
+      },
+      "id": "morningKitchen",
+      "manifest": {
+        "bytes": 3416,
+        "sha256": "0393cf7cdb8bf0c90df316d3c7d0f29b9d86bb71547f4ee4401200afdb532d45",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/5f82a3a5290b3880582c2d0e7413b74894c7e993048372e6fd92a57d3a810bad.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "7cf1b2a1c9d0e28d1a3cd3ee6e6ac4782efb8928fda360abcce5d8e0c0c9d114",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/7cf1b2a1c9d0e28d1a3cd3ee6e6ac4782efb8928fda360abcce5d8e0c0c9d114.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.flight.v1",
+        "motion.foliage.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Orange-garden bakery",
+        "ja": "オレンジの庭のパン工房",
+        "vi": "Bếp bánh bên vườn cam"
+      },
+      "totalBytes": 14465330
+    },
+    {
+      "description": {
+        "en": "Cable cars descend into the valley as pulleys turn, flags flutter and birds cross the sunset clouds.",
+        "ja": "搬器が谷へ下り、滑車が回ります。旗がはためき、夕焼けの雲を鳥が横切ります。",
+        "vi": "Cabin trượt theo cáp xuống thung lũng, bánh cáp quay, cờ gió phấp phới, mây và chim bay qua hoàng hôn."
+      },
+      "id": "mountainCableStation",
+      "manifest": {
+        "bytes": 2885,
+        "sha256": "63126ae16590dc73771b6d6b1d5ed98a39939edd2dde1d478067f87f4a8cc156",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/246f99740ac3ef67c7d116edc7bb5bfd61e1206d8153d21d74497861e439a513.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "ff802e03794a0bfc518b396e94629b53dada93bf7b1cbe244adf076268d8371b",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/ff802e03794a0bfc518b396e94629b53dada93bf7b1cbe244adf076268d8371b.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.spin.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Sunset cable-car station",
+        "ja": "夕暮れのロープウェイ駅",
+        "vi": "Trạm cáp treo cuối ngày"
+      },
+      "totalBytes": 11692858
+    },
+    {
+      "description": {
+        "en": "Fields, mountains and village lights glide past the train window as poles flash by and curtains sway.",
+        "ja": "車窓に田園、山、村の明かりが流れ、電柱が通り過ぎ、カーテンが列車のリズムで揺れます。",
+        "vi": "Đồng quê, núi và đèn làng lướt qua cửa sổ tàu, cột điện vụt qua, rèm rung theo nhịp toa."
+      },
+      "id": "nightTrainCompartment",
+      "manifest": {
+        "bytes": 2885,
+        "sha256": "1efcb56f6d22ce93a0721df48c46555fce99a8a8a5903c92795da37139dbf580",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/0a95fb41e99f354822fdd67735125ad07a33838ac3ca451ae82b8fddcb95590f.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "d083027c9669da4c36dcc76e3701e8225d6ccfea47e39d1a8447e5a66f5a4524",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/d083027c9669da4c36dcc76e3701e8225d6ccfea47e39d1a8447e5a66f5a4524.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.drift.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.sway.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Night-train compartment",
+        "ja": "夜行列車の客室",
+        "vi": "Khoang tàu đêm"
+      },
+      "totalBytes": 10543373
+    },
+    {
+      "description": {
+        "en": "Wild ducks cross the rippling lake, distant birds and clouds drift by, and stars sparkle after dark.",
+        "ja": "さざ波の湖をカモが泳ぎ、遠くに鳥と雲が流れます。夜には星がきらめきます。",
+        "vi": "Đàn vịt trời bơi ngang hồ, chim bay xa, mặt hồ gợn và mây trôi; đêm có sao lấp lánh."
+      },
+      "id": "pineLakeTent",
+      "manifest": {
+        "bytes": 3148,
+        "sha256": "94a31839b463d8f302ebed5ed9d79a45d0448b7c297536e121766829e898e060",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/eadf0a05924c1c7ee245240358626b6b3533337ceee6dabedf282bd7eae6eb91.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "219663a6e4beca9980d03cd24348bf9138f2d622ed8d41f91d85e28bad4b6109",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/219663a6e4beca9980d03cd24348bf9138f2d622ed8d41f91d85e28bad4b6109.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.frames.v1",
+        "motion.sway.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Tent by the pine lake",
+        "ja": "松林の湖畔のテント",
+        "vi": "Lều cạnh hồ thông"
+      },
+      "totalBytes": 11447584
+    },
+    {
+      "description": {
+        "en": "Room by the railway",
+        "ja": "線路沿いの部屋",
+        "vi": "Phòng bên đường tàu"
+      },
+      "id": "railwayRoom",
+      "manifest": {
+        "bytes": 7669,
+        "sha256": "a61552196ac4778e68316589b55da46cfe7b0371f3977556defadc9856a23654",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/dfdec5ff2ba90856d78b722b091c64b5676fe0b8d6c734ad653a98e5694dccc4.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "a0b03723f2d84dca457d7e63440acf4b456bd50442e82fb43c44380d06df1e56",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/a0b03723f2d84dca457d7e63440acf4b456bd50442e82fb43c44380d06df1e56.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 2,
+      "tier": "free",
+      "title": {
+        "en": "Room by the railway",
+        "ja": "線路沿いの部屋",
+        "vi": "Phòng bên đường tàu"
+      },
+      "totalBytes": 15551765
+    },
+    {
+      "description": {
+        "en": "A window-side desk overlooks the rainy city as a cat watches passing cars and rain runs down the glass.",
+        "ja": "雨の街を見下ろす窓辺のデスク。猫が車を眺め、窓ガラスを雨粒が伝います。",
+        "vi": "Bàn làm việc bên vách kính nhìn phố mưa; mèo ngồi bệ cửa, xe lướt trên đường ướt, giọt mưa chảy trên kính."
+      },
+      "id": "rainyCityOffice",
+      "manifest": {
+        "bytes": 3441,
+        "sha256": "bfd4cc03a217b204f0f533f48e5d7d81fc0392dfd54c17307e958874ffa49fcc",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/493638c78da22db1c486e99f0e5e5cb20aa9df9e031b0b46eec73e17bb9b3b86.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "cb2cae2bc3d51607f8344e0ad1e88a48d8771a180bb08fdd5fbab4f8e0850a60",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/cb2cae2bc3d51607f8344e0ad1e88a48d8771a180bb08fdd5fbab4f8e0850a60.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.grass.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Desk above the city",
+        "ja": "街を見下ろすデスク",
+        "vi": "Bàn làm việc trên cao"
+      },
+      "totalBytes": 12496270
+    },
+    {
+      "description": {
+        "en": "A ground-floor studio faces a rainy garden where maple leaves sway, water fills a stone channel and a small dog wags its tail.",
+        "ja": "雨の庭に面したアトリエ。カエデが揺れ、石の水路に雨水が流れ、小さな犬が首をかしげて尾を振ります。",
+        "vi": "Studio tầng trệt nhìn sân vườn mưa; cây phong lay, nước mái đổ xuống rãnh đá, chó nhỏ nghiêng đầu vẫy đuôi."
+      },
+      "id": "rainyGardenStudio",
+      "manifest": {
+        "bytes": 3423,
+        "sha256": "f70ccf6ac02990408746c9cad1379af470e16d3e7b51ab928721ffaa51a0b3d4",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/26c53d6dabb16ec6138435be9cdc8b8a7bc6c6bc0a0c8047ea99413a32d15f09.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "76294ec9c6f83d350a0db416a8b4b2c53e6a0c857f3450b914588ed1d8725705",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/76294ec9c6f83d350a0db416a8b4b2c53e6a0c857f3450b914588ed1d8725705.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drop.v1",
+        "motion.grass.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Rainy garden studio",
+        "ja": "雨の庭のアトリエ",
+        "vi": "Studio bên sân vườn"
+      },
+      "totalBytes": 14058584
+    },
+    {
+      "description": {
+        "en": "A record spins as a little rabbit washes its face on a chair and cars pass outside the window.",
+        "ja": "レコードが回り、椅子の上で小さなウサギが顔を洗います。窓の外を車が通ります。",
+        "vi": "Đĩa quay, thỏ nhỏ rửa mặt trên ghế và xe lướt qua con phố ngoài cửa sổ."
+      },
+      "id": "recordListeningRoom",
+      "manifest": {
+        "bytes": 3708,
+        "sha256": "329f6c4fcba9d0d2102b4f3b9ff96c854b77aa04ff3072e3810aee8c571dce5a",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/846a8c624eaf3ff2285ffe1d9dc3528147a0208dab36cf15dc65ebb230a5fa20.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "42d11c7d422bd4a9c1170edb601993d70bc256084ed0bbce8f12a46d02a4e1b3",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/42d11c7d422bd4a9c1170edb601993d70bc256084ed0bbce8f12a46d02a4e1b3.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.disc.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Vintage record room",
+        "ja": "レコードを聴く部屋",
+        "vi": "Phòng nghe đĩa cũ"
+      },
+      "totalBytes": 15595174
+    },
+    {
+      "description": {
+        "en": "Wind moves through the rice fields, clouds drift and sparrows stop by the veranda.",
+        "ja": "田んぼを風が渡り、雲が流れ、縁側にスズメが訪れます。",
+        "vi": "Gió qua đồng lúa, mây trôi và chim sẻ ghé ngang hiên."
+      },
+      "id": "riceVeranda",
+      "manifest": {
+        "bytes": 2898,
+        "sha256": "101f57fce1c0ef850ef4ed1dd0346d8ebe3d308fd29c2e7530b9d733c070877d",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b613fa72d2578140972f57690dc759674aeaa1ce78d7880e961ef0c8a96662e7.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "ce67b479e6317dd50db8de17a05fd898e77134629ab5c975729b9f925fbfa2ef",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/ce67b479e6317dd50db8de17a05fd898e77134629ab5c975729b9f925fbfa2ef.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.grass.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 2,
+      "tier": "free",
+      "title": {
+        "en": "Rice-field veranda",
+        "ja": "田んぼを望む縁側",
+        "vi": "Hiên nhà mùa lúa"
+      },
+      "totalBytes": 11219581
+    },
+    {
+      "description": {
+        "en": "A kitten plays with butterflies, boats drift along the river and reeds sway; fireflies appear at night.",
+        "ja": "子猫が蝶と遊び、川を小舟が進み、葦がそよぎます。夜にはホタルが舞います。",
+        "vi": "Mèo nhỏ vờn bướm, thuyền lướt trên sông, cỏ lau lay; đêm có đom đóm bay."
+      },
+      "id": "riversidePottery",
+      "manifest": {
+        "bytes": 3732,
+        "sha256": "8312660b2b8ad3e332d14237abaa460d06fdb278fb43a917f5a2773fdfe18a22",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/240771099a3c2a7b935e2a6fba864e49f7b1c27542af7041db11d9aeb54f401a.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "5159c409cadd50b5b710eeb127790d8fea48462c42d89b43858e92d79bae8e6c",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/5159c409cadd50b5b710eeb127790d8fea48462c42d89b43858e92d79bae8e6c.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.frames.v1",
+        "motion.grass.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "free",
+      "title": {
+        "en": "Riverside pottery studio",
+        "ja": "川辺の陶芸工房",
+        "vi": "Xưởng gốm ven sông"
+      },
+      "totalBytes": 17298412
+    },
+    {
+      "description": {
+        "en": "Sparrows visit the railing, vines and tomato leaves sway, and clouds pass beyond the glass.",
+        "ja": "手すりにスズメが訪れ、つる草とトマトの葉が揺れます。ガラスの向こうを雲が流れます。",
+        "vi": "Chim sẻ ghé lan can, dây leo đu, lá cà chua lay và mây trôi ngoài khung kính."
+      },
+      "id": "rooftopGreenhouse",
+      "manifest": {
+        "bytes": 2920,
+        "sha256": "18b7e3566737dc100c1e5f17219025e94b4431c7cb6c40813355e2477dfd107c",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/9cfbe4ee2311dc9a13546a597a4cd3cb39aa30a4d4a599d9d66a20489812f96b.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "b1482e5d0aefcd50a8f8b4dea134ccfa99495a329692d51db1861bc18096bc6e",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/b1482e5d0aefcd50a8f8b4dea134ccfa99495a329692d51db1861bc18096bc6e.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.drift.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.foliage.v1",
+        "motion.grass.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 2,
+      "tier": "free",
+      "title": {
+        "en": "Rooftop greenhouse",
+        "ja": "屋上の温室",
+        "vi": "Nhà kính trên sân thượng"
+      },
+      "totalBytes": 13266619
+    },
+    {
+      "description": {
+        "en": "A hearth glows as snow falls beyond the glass, sparrows hop on the railing and a grey cat rests in the warmth.",
+        "ja": "暖炉の炎が揺れ、ガラスの向こうに雪が降ります。手すりでスズメが跳ね、灰色の猫が暖まります。",
+        "vi": "Lửa lò sưởi bập bùng, tuyết rơi ngoài kính, chim sẻ nhảy trên lan can, mèo xám nằm sưởi."
+      },
+      "id": "snowHearthVeranda",
+      "manifest": {
+        "bytes": 3155,
+        "sha256": "2f7f14a9faa9d2aa83b633fd8ff4b261911c727d942f541c8ce08a12d8bab165",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/8b24c174c8c46439de7c6102a99a5b5f302fd5c8246b775f1483c18de8707997.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "29f04108121301272acad16661692a2e71b1628bd86e8e99c1eee01956049597",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/29f04108121301272acad16661692a2e71b1628bd86e8e99c1eee01956049597.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drop.v1",
+        "motion.flight.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Snowy hearth veranda",
+        "ja": "雪の日の暖炉の縁側",
+        "vi": "Hiên nhà dưới tuyết"
+      },
+      "totalBytes": 14879662
+    },
+    {
+      "description": {
+        "en": "Stars and meteors shine above dry hills as fireflies drift and olive trees sway in the night breeze.",
+        "ja": "乾いた丘の上に星と流れ星が輝きます。ホタルが舞い、夜風にオリーブの木と草がそよぎます。",
+        "vi": "Sao lấp lánh và sao băng trên đồi khô, đom đóm bay, ô liu và cỏ lay trong gió đêm."
+      },
+      "id": "stargazingHouse",
+      "manifest": {
+        "bytes": 3124,
+        "sha256": "f22e90effa5ab6f969ffaa286e3ea3d3030ec74f99664a72627035c7d965f31a",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/de53a1b338b09785dd3359dceb59405ae0f49bace8a3b292e32b959f7d9158af.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "fcd2e9e4e3bdcb961c8986d429d40593a0958b14eafc33cf90beea453982f794",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/fcd2e9e4e3bdcb961c8986d429d40593a0958b14eafc33cf90beea453982f794.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.flight.v1",
+        "motion.frames.v1",
+        "motion.grass.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Stargazing house",
+        "ja": "星を眺める家",
+        "vi": "Nhà ngắm sao"
+      },
+      "totalBytes": 11875634
+    },
+    {
+      "description": {
+        "en": "A wooden waterwheel turns beside the stream as birds hop over rocks and leaves float downstream; stars appear at night.",
+        "ja": "小川のそばで木の水車が回ります。鳥が石を跳ねて飛び立ち、葉が水に流れ、夜には星が見えます。",
+        "vi": "Guồng gỗ quay chậm bên dòng suối, chim nhỏ nhảy trên đá rồi bay đi, lá trôi theo nước; đêm có sao."
+      },
+      "id": "waterwheelCottage",
+      "manifest": {
+        "bytes": 3184,
+        "sha256": "884e9d8cc199ba16905d111ec5696ba1145b5f6c848640392eb1b020e5f8ad1a",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/fefe1584b321cdca6488de977a17b58f7eaf272e980b3eef05d23885feb317ed.manifest.json"
+      },
+      "minAppBuild": 13,
+      "preview": {
+        "height": 512,
+        "sha256": "db1ea18e87e393f40ab0a6d245766ce0e784963d55f6eb9f035263b62a394e17",
+        "url": "https://github.com/lhs157/anime-world-packs/releases/download/packs-v1/db1ea18e87e393f40ab0a6d245766ce0e784963d55f6eb9f035263b62a394e17.preview.png",
+        "width": 341
+      },
+      "requiredCapabilities": [
+        "audio.mix.v1",
+        "motion.cycle.v1",
+        "motion.drift.v1",
+        "motion.flight.v1",
+        "motion.frames.v1",
+        "motion.spin.v1",
+        "motion.weighted-frames.v1",
+        "scene.v1"
+      ],
+      "revision": 1,
+      "tier": "pro",
+      "title": {
+        "en": "Waterwheel cottage",
+        "ja": "水車のそばの小さな家",
+        "vi": "Căn nhà bên guồng nước"
+      },
+      "totalBytes": 13089980
+    }
+  ],
+  "revision": 3,
+  "schemaVersion": 1
+}
